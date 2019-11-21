@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-plugin-android-name" version="0.2.3">
+    <name>Device</name>
+    <description>Cordova Android Plugin Name</description>
+    <license>Apache 2.0</license>
+    <keywords>cordova,device</keywords>
+    <platform name="android">
+        <hook type="after_prepare" src="scripts/scripts.js" />
+    </platform>
+</plugin>

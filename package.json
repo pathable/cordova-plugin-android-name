@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-android-name",
+  "version": "0.2.3",
+  "description": "Cordova Android Plugin Name",
+  "cordova": {
+    "id": "cordova-plugin-android-name",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pathable/cordova-plugin-android-name.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/pathable/cordova-plugin-android-name/issues"
+  },
+  "homepage": "https://github.com/pathable/cordova-plugin-android-name#readme"
+}
